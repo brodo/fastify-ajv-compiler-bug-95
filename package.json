@@ -1,0 +1,17 @@
+{
+  "name": "fastify-ajv-compiler-bug",
+  "version": "0.0.1",
+  "description": "This project is a minimal example for bug report #95",
+  "main": "index.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "author": "Julian Dax <julian.dax@posteo.de>",
+  "license": "ISC",
+  "dependencies": {
+    "@fastify/ajv-compiler": "^3.5.0",
+    "@types/node": "^18.11.18",
+    "fastify": "^4.11.0",
+    "typescript": "^4.9.4"
+  }
+}
